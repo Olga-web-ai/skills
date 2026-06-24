@@ -1,6 +1,6 @@
 # Skills For Design Engineers
 
-[![skills.sh](https://skills.sh/b/emilkowalski/skill)](https://skills.sh/emilkowalski)
+[![skills.sh](https://skills.sh/b/emilkowalski/skills)](https://skills.sh/emilkowalski/skills)
 
 For designers and engineers to help them build better user interfaces.
 
