@@ -8,7 +8,11 @@ Knowing whether you made a right choice when it comes to animations, or design i
 
 They are based on my years of experience working at companies like Vercel and Linear.
 
-If you want to dive even deeper into design engineering and how AI can help, you can checkout my animation course:
+All the skills here are a side-effect of domain-expertise. AI doesn’t replace such expertise, it amplifies what you can get out of it and makes you way better relative to others.
+
+So learn to code, design, or develop expertise in any other field. It’s extremely valuable.
+
+You’ll build animation expertise here:
 
 [Check out animations.dev](http://animations.dev/)
 
