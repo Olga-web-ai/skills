@@ -1,5 +1,5 @@
 <a href="http://animations.dev/">
-<img width="400" height="210" alt="opengraph-image-pwu6ef" src="https://github.com/user-attachments/assets/a405a37f-1a1a-4e8d-8fd6-269ee6d4fba6" />
+<img width="320" height="168" alt="opengraph-image-pwu6ef" src="https://github.com/user-attachments/assets/a405a37f-1a1a-4e8d-8fd6-269ee6d4fba6" />
 </a>
 
 # Skills For Design Engineers
