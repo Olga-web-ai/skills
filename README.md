@@ -8,7 +8,11 @@ Knowing whether you made a right choice when it comes to animations, or design i
 
 They are based on my years of experience working at companies like Vercel and Linear.
 
-If you want to dive even deeper into design engineering and how AI can help, you can checkout my animation course:
+All the skills here are a side-effect of domain-expertise. AI doesn’t replace such expertise, it amplifies what you can get out of it and makes you way better relative to others.
+
+So learn to code, design, or develop expertise in any other field. It’s extremely valuable.
+
+You’ll build animation expertise here:
 
 [Check out animations.dev](http://animations.dev/)
 
@@ -35,5 +39,6 @@ This is your shortcut to great interfaces. A shortcut to stand out in a sea of s
 
 - **[emil-design-eng](./skills/emil-design-eng/SKILL.md)** — The main skill that consinsts of mostly animation, but also some design advice.
 - **[review-animations](./skills/review-animations/SKILL.md)** — Review your animations in a strict way, based on my rules.
-- **[apple-design](./skills/apple-design/SKILL.md)** — Apple's principles for interface design and fluid, physical motion, distilled from their WWDC design talks and translated for the web.
-- More coming very soon.
+- **[animation-vocabulary](./skills/animation-vocabulary/SKILL.md)** — Get better animations from an AI by telling it exactly what you want by using the right words.
+- **[apple-design](./skills/apple-design/SKILL.md)** — Apple's principles for interface design and fluid motion, distilled from their WWDC design talks and translated for the web.
+
